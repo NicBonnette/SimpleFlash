@@ -1,0 +1,81 @@
+﻿<Page
+    x:Class="SimpleFlash.Editing"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SimpleFlash"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' Icon="Back"                           />
+            <AppBarButton x:ConnectionId='2' Icon="Save"                         />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!-- Title-->
+
+        <TextBlock Text="Easy Flash" 
+                       Grid.Row="0"
+                       Style="{ThemeResource TitleTextBlockStyle}" 
+                       Margin="0,12,0,0" 
+                       />
+        <TextBlock Text="Flash Card" 
+                       Grid.Row="0"
+                       Style="{ThemeResource TitleTextBlockStyle}" 
+                       Margin="0,12,0,0" 
+                       HorizontalAlignment="Right"/>
+
+        <TextBlock HorizontalAlignment="Left" 
+                   Grid.Row="1"
+                   Margin="30,10,0,0" 
+                   TextWrapping="Wrap" 
+                   FontSize ="30"
+                   Text="Question:" 
+                   VerticalAlignment="Top"
+                   />
+        <Border Background="White" Grid.Row="2" Margin="30,10,30,10">
+            <TextBox x:Name="QuestionTextBox" 
+                Grid.Row="2"
+                 Margin="10,10,10,10"                                
+                 TextWrapping="Wrap" 
+                     FontSize="24"
+                 VerticalAlignment="Stretch"                  
+                 HorizontalAlignment="Stretch"               
+                 />
+        </Border>
+
+        <TextBlock HorizontalAlignment="Left" 
+                   Grid.Row="3"
+                   Margin="30,10,0,0" 
+                   TextWrapping="Wrap" 
+                   
+                   FontSize="30"
+                   Text="Answer:" 
+                   VerticalAlignment="Top"/>
+
+        <Border Background="White" Grid.Row="4" Margin="30,10,30,10">
+            <TextBox x:Name="AnswerTextBox" 
+                     Grid.Row="4"
+                 Margin="10,10,10,10"    
+                     FontSize="24"
+                 TextWrapping="Wrap" 
+                 VerticalAlignment="Stretch"                  
+                 HorizontalAlignment="Stretch"               
+                 />
+        </Border>
+
+
+    </Grid>
+</Page>
+

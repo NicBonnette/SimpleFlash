@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BOB</Machine>
+    <WindowsUser>Nic</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>10868NickyB.EasyFlash</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3005130D7800B6F1027A274C5C1A1FF9BC64D01C92BCFC73A194AB7317EB310C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>10868NickyB.EasyFlash_1.1.0.3_neutral__63vdz4aggfypp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>10868NickyB.EasyFlash_63vdz4aggfypp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>10868NickyB.EasyFlash</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=27DF67C3-7113-4497-A207-1F507F6451C9</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-08T03:49:44.778</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\SimpleFlash.Windows.exe">
+      <PackagePath>SimpleFlash.Windows.exe</PackagePath>
+      <Modified>2014-10-08T03:49:44.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash106x106.png">
+      <PackagePath>Assets\SimpleFlash106x106.png</PackagePath>
+      <Modified>2014-10-07T23:44:28.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash1116x540.png">
+      <PackagePath>Assets\SimpleFlash1116x540.png</PackagePath>
+      <Modified>2014-10-08T01:50:41.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash1116x540.scale-180.png">
+      <PackagePath>Assets\SimpleFlash1116x540.scale-180.png</PackagePath>
+      <Modified>2014-10-08T00:26:45.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash1152x1920.png">
+      <PackagePath>Assets\SimpleFlash1152x1920.png</PackagePath>
+      <Modified>2014-10-08T01:50:38.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash116x540.png">
+      <PackagePath>Assets\SimpleFlash116x540.png</PackagePath>
+      <Modified>2014-10-08T00:14:18.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash120x120.png">
+      <PackagePath>Assets\SimpleFlash120x120.png</PackagePath>
+      <Modified>2014-10-07T23:44:28.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash126.scale-100.png">
+      <PackagePath>Assets\SimpleFlash126.scale-100.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash126.scale-180.png">
+      <PackagePath>Assets\SimpleFlash126.scale-180.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash150x150.scale-100.png">
+      <PackagePath>Assets\SimpleFlash150x150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-08T01:59:57.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash170x170.png">
+      <PackagePath>Assets\SimpleFlash170x170.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash210x210.scale-140.png">
+      <PackagePath>Assets\SimpleFlash210x210.scale-140.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash310.png">
+      <PackagePath>Assets\SimpleFlash310.png</PackagePath>
+      <Modified>2014-10-08T01:50:35.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash310x150.png">
+      <PackagePath>Assets\SimpleFlash310x150.png</PackagePath>
+      <Modified>2014-10-08T01:50:19.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash350x150.png">
+      <PackagePath>Assets\SimpleFlash350x150.png</PackagePath>
+      <Modified>2014-10-08T01:50:16.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash360x360.png">
+      <PackagePath>Assets\SimpleFlash360x360.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash44x44.png">
+      <PackagePath>Assets\SimpleFlash44x44.png</PackagePath>
+      <Modified>2014-10-08T01:50:26.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash50x50.png">
+      <PackagePath>Assets\SimpleFlash50x50.png</PackagePath>
+      <Modified>2014-10-08T01:50:14.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash54.png">
+      <PackagePath>Assets\SimpleFlash54.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash558.scale-180.png">
+      <PackagePath>Assets\SimpleFlash558.scale-180.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash558x270.scale-180.png">
+      <PackagePath>Assets\SimpleFlash558x270.scale-180.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash620x300.scale-100.png">
+      <PackagePath>Assets\SimpleFlash620x300.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-08T02:04:43.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash70.png">
+      <PackagePath>Assets\SimpleFlash70.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash71x71.png">
+      <PackagePath>Assets\SimpleFlash71x71.png</PackagePath>
+      <Modified>2014-10-08T01:50:22.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash744x360.png">
+      <PackagePath>Assets\SimpleFlash744x360.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SimpleFlash90.png">
+      <PackagePath>Assets\SimpleFlash90.png</PackagePath>
+      <Modified>2014-10-07T23:44:33.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-07T23:44:33.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <Modified>2014-10-08T00:26:45.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-07T23:44:33.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\Adding.xbf">
+      <PackagePath>Adding.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\Answering.xbf">
+      <PackagePath>Answering.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\Asking.xbf">
+      <PackagePath>Asking.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\DeckMaintenance.xbf">
+      <PackagePath>DeckMaintenance.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\Editing.xbf">
+      <PackagePath>Editing.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-08T03:49:44.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\SimpleFlash.Windows.xr.xml">
+      <PackagePath>SimpleFlash.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-07T23:50:47.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-08T03:49:44.653</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

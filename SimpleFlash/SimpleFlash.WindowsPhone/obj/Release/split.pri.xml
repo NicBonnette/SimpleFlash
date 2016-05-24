@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="10868NickyB.EasyFlash" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="Adding.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/Adding.xbf">
+				<Candidate type="Path">
+					<Value>Adding.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Answering.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/Answering.xbf">
+				<Candidate type="Path">
+					<Value>Answering.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Asking.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/Asking.xbf">
+				<Candidate type="Path">
+					<Value>Asking.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeckMaintenance.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/DeckMaintenance.xbf">
+				<Candidate type="Path">
+					<Value>DeckMaintenance.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Editing.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/Editing.xbf">
+				<Candidate type="Path">
+					<Value>Editing.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://10868NickyB.EasyFlash/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SimpleFlash.WindowsPhone.xr.xml" uri="ms-resource://10868NickyB.EasyFlash/Files/SimpleFlash.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>SimpleFlash.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/Logo.png"/>
+				<NamedResource name="SimpleFlash106x106.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash106x106.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash106x106.scale-240.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash106x106.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash1116x540.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash1116x540.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash1116x540.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash1152x1920.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash1152x1920.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash1152x1920.scale-240.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash1152x1920.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash116x540.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash116x540.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash116x540.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash120x120.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash120x120.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash120x120.scale-240.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash120x120.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash126.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash126.png"/>
+				<NamedResource name="SimpleFlash150x150.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash150x150.png"/>
+				<NamedResource name="SimpleFlash170x170.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash170x170.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash170x170.scale-240.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash170x170.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash210x210.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash210x210.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash210x210.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash310.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash310.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash310.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash310x150.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash310x150.png"/>
+				<NamedResource name="SimpleFlash350x150.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash350x150.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash350x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash360x360.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash360x360.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash360x360.scale-240.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash360x360.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash44x44.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash44x44.png"/>
+				<NamedResource name="SimpleFlash50x50.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash50x50.png"/>
+				<NamedResource name="SimpleFlash54.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash54.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash54.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash558.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash558.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash558.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash558x270.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash558x270.png"/>
+				<NamedResource name="SimpleFlash620x300.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash620x300.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash620x300.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash70.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash70.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash70.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash71x71.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash71x71.png"/>
+				<NamedResource name="SimpleFlash744x360.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash744x360.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SimpleFlash744x360.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SimpleFlash90.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SimpleFlash90.png">
+					<Candidate type="Path">
+						<Value>Assets\SimpleFlash90.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SmallLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\SmallLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://10868NickyB.EasyFlash/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="SimpleFlash.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SimpleFlash"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" >
+            <TextBlock 
+                   Style="{StaticResource HeaderTextBlockStyle}"
+                   Margin="20,20,20,0"
+                   Text="Simple Flash"
+                   HorizontalAlignment="Center"/>
+            <TextBlock 
+                   Style="{StaticResource SubheaderTextBlockStyle}"
+                   Margin="20,0,20,0"
+                   Text="flash card system"
+                   HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <Button x:ConnectionId='1' x:Name="goButton" 
+                Grid.Row ="2"
+                Content="Test me now" 
+                FontSize="36"
+                Background="Red"
+                HorizontalAlignment="Stretch" 
+                Margin="30"
+                VerticalAlignment="Stretch" 
+                                       />
+
+        <StackPanel Grid.Row="1" Margin="30,0,30,0" VerticalAlignment="Center">
+
+            <TextBlock  
+                   Text="View the question, then hit the curly arrow to see the answer."
+                   Style="{StaticResource BodyTextBlockStyle}"
+                TextWrapping="Wrap"
+                   TextAlignment="Left"
+                   />
+            <TextBlock  
+                   
+                   />
+            <TextBlock  
+                   Text="Tick if you got it, cross to try again later. "
+                   TextWrapping="Wrap"
+                Style="{StaticResource BodyTextBlockStyle}"
+                   TextAlignment="Left"
+                   />
+
+        </StackPanel>
+
+
+        <Button x:ConnectionId='2' x:Name="editButton"   
+                Grid.Row="3"
+                Content="Work on my deck" 
+                FontSize="30"
+                Background="BlueViolet"
+                HorizontalAlignment="Stretch" 
+                Margin="30,20,30,20"
+                VerticalAlignment="Stretch" 
+                                         />
+    </Grid>
+</Page>
+

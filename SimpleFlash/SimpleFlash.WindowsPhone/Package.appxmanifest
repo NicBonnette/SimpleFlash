@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="10868NickyB.EasyFlash" Publisher="CN=27DF67C3-7113-4497-A207-1F507F6451C9" Version="1.1.0.7" />
+  <mp:PhoneIdentity PhoneProductId="a9a9f2e2-4569-4d23-a3e6-218e39129c14" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>SimpleFlash</DisplayName>
+    <PublisherDisplayName>NickyB</PublisherDisplayName>
+    <Logo>Assets\SimpleFlash50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="SimpleFlash.WindowsPhone.App">
+      <m3:VisualElements DisplayName="SimpleFlash" Square150x150Logo="Assets\SimpleFlash150x150.png" Square44x44Logo="Assets\SimpleFlash44x44.png" Description="A simple application for creating and using study flash cards - with test preparation in mind!" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\SimpleFlash310x150.png" Square71x71Logo="Assets\SimpleFlash71x71.png">
+        </m3:DefaultTile>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+</Package>

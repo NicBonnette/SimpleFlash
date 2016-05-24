@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.WindowsPhone\obj\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.WindowsPhone\obj\Release\PackageLayout\Assets\SimpleFlash210x210.scale-140.png"			"Assets\SimpleFlash210x210.scale-140.png"
+"C:\Users\Nic\Documents\Visual Studio 2013\Projects\SimpleFlash\SimpleFlash\SimpleFlash.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
